@@ -1,0 +1,1 @@
+Es un proyecto personal de un juego en 2d con canvas, dejo el link para que lo visiten y jueguen: https://mejora-tu-aim.000webhostapp.com/
